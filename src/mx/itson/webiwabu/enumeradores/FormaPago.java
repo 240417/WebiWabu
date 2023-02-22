@@ -6,7 +6,7 @@
 package mx.itson.webiwabu.enumeradores;
 
 /**
- *
+ * Enumerador FormaPago con diferentes formas de pago
  * @author carlo
  */
 public enum FormaPago {

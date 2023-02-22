@@ -6,7 +6,7 @@
 package mx.itson.webiwabu.enumeradores;
 
 /**
- *
+ * Enumerador MetodosPago con diferentes metodos de pago
  * @author Jesus Quintero
  */
 public enum MetodosPago {

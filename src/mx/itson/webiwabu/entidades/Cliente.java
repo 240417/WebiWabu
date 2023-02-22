@@ -6,7 +6,7 @@
 package mx.itson.webiwabu.entidades;
 
 /**
- *
+ * Clase cliente con atributos de cliente
  * @author medin
  */
 public class Cliente {

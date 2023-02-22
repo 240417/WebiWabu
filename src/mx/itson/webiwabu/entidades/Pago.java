@@ -10,7 +10,7 @@ import mx.itson.webiwabu.enumeradores.FormaPago;
 import mx.itson.webiwabu.enumeradores.MetodosPago;
 
 /** 
- *
+ * Clase Pago con atributos de pago
  * @author Jesus Quintero
  */
 public class Pago {

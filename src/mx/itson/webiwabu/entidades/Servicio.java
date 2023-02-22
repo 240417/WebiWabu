@@ -6,7 +6,7 @@
 package mx.itson.webiwabu.entidades;
 
 /**
- *
+ * Clase Servicio con atributos de servicio
  * @author medin
  */
 public class Servicio {

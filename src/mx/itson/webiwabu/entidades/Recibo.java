@@ -8,7 +8,7 @@ package mx.itson.webiwabu.entidades;
 import java.util.Date;
 
 /**
- *
+ * Clase Recibo con atributos de recibo
  * @author carlo
  */
 public class Recibo {

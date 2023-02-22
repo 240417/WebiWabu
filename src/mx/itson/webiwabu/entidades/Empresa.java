@@ -6,7 +6,7 @@
 package mx.itson.webiwabu.entidades;
 
 /**
- *
+ * Clase Empresa con atributos de una empresa 
  * @author medin
  */
 public class Empresa {

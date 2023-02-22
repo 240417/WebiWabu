@@ -6,7 +6,7 @@
 package mx.itson.webiwabu.entidades;
 
 /**
- *
+ * Clase CostoMercado cn atributos de costoMercado
  * @author medin
  */
 public class CostoMercado {
